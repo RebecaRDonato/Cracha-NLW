@@ -10,7 +10,7 @@ body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: rgba(32, 32, 36, 1)
+  background-color: hsl(240, 6%, 13%);
 }
 
 body {
